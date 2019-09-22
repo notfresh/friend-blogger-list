@@ -1,4 +1,4 @@
-# 💡 简介
+# 简介
 设立这个仓库的目的是为了, 让身边的朋友阅读你的博客, 并给你积极的反馈.  
 
 # 你能得到什么? 你需要付出什么?  
@@ -16,15 +16,15 @@
 
 # 博客列表
 - 梁同学  
-Github：LIANGQINGYUAN  
+Github：https://github.com/LIANGQINGYUAN
 公众号: 
-<div><img src="images/liang-wechat-public.jpg" style="width:50%;"/> </div>
+<div ><img src="images/liang-wechat-public.jpg" style="width:30%;"/> </div>
 
 - 张同学  
 博客地址: [https://www.jianshu.com/u/48f8c3896519](https://www.jianshu.com/u/48f8c3896519)
 
 - 张三思同学
-Github: notfresh  
+Github: https://github.com/notfresh  
 博客地址: [博客园传送门](https://cnblogs.com/notfresh)  
 
 

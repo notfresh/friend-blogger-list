@@ -18,7 +18,7 @@
 - 梁同学  
 Github：https://github.com/LIANGQINGYUAN
 公众号: 
-<div ><img src="images/liang-wechat-public.jpg" width="50px"/> </div>
+<div style="align:center;"><img src="images/liang-wechat-public.jpg" width="100px"/> </div>
 
 - 张同学  
 博客地址: [https://www.jianshu.com/u/48f8c3896519](https://www.jianshu.com/u/48f8c3896519)
@@ -33,7 +33,7 @@ TODO
 
 # 怎么参与到这个小组建设中来?  
 扫描以下二维码,进入. 
-<div ><img src="images/writers-wechat-group.jpeg" width="50px"/> </div>
+<div style="align:center;"><img src="images/writers-wechat-group.jpeg" width="100px"/> </div>
 
 # 给自己的勉励以及给他人的建议
 经常写作可以帮助自己,帮助他人, 梳理,检验,和传播自己知道的知识和经验

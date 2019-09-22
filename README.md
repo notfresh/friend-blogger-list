@@ -32,7 +32,7 @@ Github: https://github.com/notfresh
 TODO   
 
 # 怎么参与到这个小组建设中来?  
-- 把自己的博客地址, Github或者公众号分享出来, 会有更多的同学有兴趣回去阅读你的博客并给你回复.  
+- 把自己的博客地址, Github或者公众号分享出来, 在[Isssue区](https://github.com/notfresh/blog_writers/issues)里提交, 会有更多的同学有兴趣回去阅读你的博客并给你回复.  
 
 - 扫描以下二维码,进入我们的群, 一起进群讨论交流. 
 <div style="align:center;"><img src="images/writers-wechat-group.jpeg" width="100px"/> </div>

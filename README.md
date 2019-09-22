@@ -14,7 +14,7 @@
 - 喜欢写博客的朋友们的博客地址 
 - 最近更新的博客 
 
-# 博客列表
+# 博客列表(按姓名字母排序)
 - 梁同学  
 Github：https://github.com/LIANGQINGYUAN
 公众号: 
@@ -23,7 +23,7 @@ Github：https://github.com/LIANGQINGYUAN
 - 张同学  
 博客地址: [https://www.jianshu.com/u/48f8c3896519](https://www.jianshu.com/u/48f8c3896519)
 
-- 张三思同学
+- 张三思同学  
 Github: https://github.com/notfresh  
 博客地址: [博客园传送门](https://cnblogs.com/notfresh)  
 

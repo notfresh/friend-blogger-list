@@ -8,7 +8,7 @@ Github：https://github.com/LIANGQINGYUAN
 公众号: 
 <div style="align:center;"><img src="images/liang-wechat-public.jpg" width="100px"/> </div>
 
-- 张同学  
+- 李同学  
 博客地址: [https://www.jianshu.com/u/48f8c3896519](https://www.jianshu.com/u/48f8c3896519)
 
 - 张同学X  
